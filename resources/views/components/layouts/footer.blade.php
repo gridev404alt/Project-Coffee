@@ -22,6 +22,7 @@
             <a href="#"><i class="fas fa-phone"></i> +111-222-3333</a>
             <a href="#"><i class="fas fa-envelope"></i> coffee@gmail.com</a>
             <a href="#"><i class="fas fa-envelope"></i> Perú, Lima</a>
+            <a href="#"><i class="fas fa-map-marker-alt"></i> Jl.Coffee Shop no.15</a>
         </div>
         <div class="box">
             <h3>follow us</h3>
