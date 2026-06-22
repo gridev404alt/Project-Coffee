@@ -6,7 +6,7 @@
         <div class="row">
             <div class="content">
                 <h3>fresh coffee in the morning</h3>
-                <a href="#" class="btn">buy one now</a>
+                <a href="/buy" class="btn">buy one now</a>
             </div>
             <div class="image">
                 <img src="{{ asset('coffee-shop/image/home-img-1.png') }}" class="main-home-image" alt="">

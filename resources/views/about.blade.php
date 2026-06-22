@@ -13,7 +13,7 @@
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel rerum laboriosam reprehenderit ipsa id
                     repellat odio illum, voluptas, necessitatibus assumenda adipisci. Hic, maiores iste? Excepturi illo
                     dolore mollitia qui quia.</p>
-                <a href="#" class="btn">read more</a>
+                <a href="/read-more" class="btn">read more</a>
                 <div class="icons-container">
                     <div class="icons">
                         <img src="{{ asset('coffee-shop/image/about-icon-1.png') }}" alt="">

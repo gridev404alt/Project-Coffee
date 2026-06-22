@@ -10,11 +10,11 @@
         </div>
         <div class="box">
             <h3>quick links</h3>
-            <a href="/"><i class="fas fa-arrow-right"></i> home</a>
-            <a href="/about"><i class="fas fa-arrow-right"></i> about</a>
-            <a href="/menu"><i class="fas fa-arrow-right"></i> menu</a>
-            <a href="/review"><i class="fas fa-arrow-right"></i> review</a>
-            <a href="/book"><i class="fas fa-arrow-right"></i> book</a>
+            <a href="{{ route('home') }}"><i class="fas fa-arrow-right"></i> home</a>
+            <a href="{{ route('about') }}"><i class="fas fa-arrow-right"></i> about</a>
+            <a href="{{ route('menu') }}"><i class="fas fa-arrow-right"></i> menu</a>
+            <a href="{{ route('review') }}"><i class="fas fa-arrow-right"></i> review</a>
+            <a href="{{ route('book') }}"><i class="fas fa-arrow-right"></i> book</a>
         </div>
         <div class="box">
             <h3>contact info</h3>
