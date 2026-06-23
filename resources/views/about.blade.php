@@ -3,29 +3,29 @@
 @section('title', 'About Us')
 @section('content')
     <section class="about" id="about">
-        <h1 class="heading">about us <span>why choose us</span></h1>
+        <h1 class="heading">about beans <span>from farm to roast</span></h1>
         <div class="row">
             <div class="image">
-                <img src="{{ asset('coffee-shop/image/about-img.png') }}" alt="">
+                <img src="{{ asset('coffee-shop/image/new/coffee-plantation.png') }}" alt="Coffee plantation">
             </div>
             <div class="content">
-                <h3 class="title">what's make our coffee special!</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel rerum laboriosam reprehenderit ipsa id
-                    repellat odio illum, voluptas, necessitatibus assumenda adipisci. Hic, maiores iste? Excepturi illo
-                    dolore mollitia qui quia.</p>
-                <a href="/read-more" class="btn">read more</a>
+                <h3 class="title">we focus on the bean before the brew</h3>
+                <p>Bean Craft is built around coffee beans with clear origin, careful sorting, and roast profiles that
+                    respect each harvest. We select lots that keep their natural sweetness, layered aroma, and distinct
+                    finish from the first crack to the final cup.</p>
+                <a href="{{ route('menu') }}" class="btn">see bean collection</a>
                 <div class="icons-container">
                     <div class="icons">
-                        <img src="{{ asset('coffee-shop/image/about-icon-1.png') }}" alt="">
-                        <h3>quality coffee</h3>
+                        <img src="{{ asset('coffee-shop/image/new/icon1.png') }}" alt="Roasted bean icon">
+                        <h3>single origin picks</h3>
                     </div>
                     <div class="icons">
-                        <img src="{{ asset('coffee-shop/image/about-icon-2.png') }}" alt="">
-                        <h3>our branches</h3>
+                        <img src="{{ asset('coffee-shop/image/new/icon2.png') }}" alt="Roasting icon">
+                        <h3>small batch roasting</h3>
                     </div>
                     <div class="icons">
-                        <img src="{{ asset('coffee-shop/image/about-icon-3.png') }}" alt="">
-                        <h3>free delivery</h3>
+                        <img src="{{ asset('coffee-shop/image/new/icon3.png') }}" alt="Coffee farm icon">
+                        <h3>traceable harvests</h3>
                     </div>
                 </div>
             </div>

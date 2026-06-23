@@ -1,12 +1,12 @@
 <section class="footer">
     <div class="box-container">
         <div class="box">
-            <h3>our branches</h3>
-            <a href="#"><i class="fas fa-arrow-right"></i> india</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> USA</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> france</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> africa</a>
-            <a href="#"><i class="fas fa-arrow-right"></i> japan</a>
+            <h3>origin partners</h3>
+            <a href="#"><i class="fas fa-arrow-right"></i> gayo highlands</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> kintamani bali</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> toraja</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> flores bajawa</a>
+            <a href="#"><i class="fas fa-arrow-right"></i> java preanger</a>
         </div>
         <div class="box">
             <h3>quick links</h3>
@@ -18,11 +18,11 @@
         </div>
         <div class="box">
             <h3>contact info</h3>
-            <a href="#"><i class="fas fa-phone"></i> +123-456-7890</a>
-            <a href="#"><i class="fas fa-phone"></i> +111-222-3333</a>
-            <a href="#"><i class="fas fa-envelope"></i> coffee@gmail.com</a>
-            <a href="#"><i class="fas fa-envelope"></i> Perú, Lima</a>
-            <a href="#"><i class="fas fa-map-marker-alt"></i> Jl.Coffee Shop no.15</a>
+            <a href="#"><i class="fas fa-phone"></i> +62 812-3456-7890</a>
+            <a href="#"><i class="fas fa-phone"></i> +62 811-2233-4455</a>
+            <a href="#"><i class="fas fa-envelope"></i> hello@beancraft.id</a>
+            <a href="#"><i class="fas fa-envelope"></i> sourcing@beancraft.id</a>
+            <a href="#"><i class="fas fa-map-marker-alt"></i> Jl. Aroma Biji No. 15, Bandung</a>
         </div>
         <div class="box">
             <h3>follow us</h3>
@@ -30,8 +30,8 @@
             <a href="#"><i class="fab fa-twitter"></i> twitter</a>
             <a href="#"><i class="fab fa-instagram"></i> instagram</a>
             <a href="#"><i class="fab fa-linkedin"></i> linkedin</a>
-            <a href="#"><i class="fab fa-twitter"></i> twitter</a>
+            <a href="#"><i class="fab fa-youtube"></i> youtube</a>
         </div>
     </div>
-    <div class="credit">created by <span>gridev404alt</span> | all rights reserved</div>
+    <div class="credit">crafted for bean lovers by <span>gridev404alt</span> | all rights reserved</div>
 </section>
